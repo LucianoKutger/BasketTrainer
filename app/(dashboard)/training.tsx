@@ -110,7 +110,7 @@ export default function Training() {
     await postStat({
       attempts: attempts,
       madeShots: score,
-      userId: user.id
+      userId: user!.id
     })
 
     setScore(0);
