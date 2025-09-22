@@ -1,3 +1,13 @@
+# Projekt beschreibung
+
+Diese React Native app wurde im Zuge eines Uni Projektes entwickelt.
+
+Ziel dieses Projekt war es eine kleine Mobile App zu entwickeln die mit der Kamera erkennt ob ein Basketball getroffen wurde oder nicht und zugleich dann die Erfolgsquote zu Tracken.
+
+Verwendet wurde React Native, und ein Trainirtes Model. 
+
+Authentifizierung und Datenspeicherung wurde über Supabase Abgewickelt.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
